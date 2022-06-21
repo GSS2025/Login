@@ -1,0 +1,2 @@
+Hello! This is a work in progress C++ project meant to create a login system where a login will be
+created and saved into a folder.
