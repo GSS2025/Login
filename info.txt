@@ -1,2 +1,8 @@
 Hello! This is a work in progress C++ project meant to create a login system where a login will be
 created and saved into a folder.
+The current plan (subject to change) is to set the program to
+    -ask the user if they would like to login or register
+    -if asked to register, will save the username and password into a file
+    -if asked to login, it will ask for the username and password, and then check if the information
+matches the information on file. if not, print an error message and give the option to try again,
+register, or to close the application.
